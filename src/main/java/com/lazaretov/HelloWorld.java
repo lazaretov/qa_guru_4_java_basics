@@ -9,7 +9,7 @@ public class HelloWorld {
         int c = 16;
         double d = 1.25;
         double e = 2.25;
-        int cordinateX = 4;
+        int cordinateX = -4;
         int cordinateY = 9;
         String text = "тест";
 
